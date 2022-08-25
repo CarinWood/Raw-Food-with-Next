@@ -13,6 +13,7 @@
     "@contentful/rich-text-react-renderer": "^15.12.1",
     "@splidejs/react-splide": "^0.7.8",
     "contentful": "^9.1.34",
+    "dotenv": "^16.0.1",
     "graphql": "^16.6.0",
     "next": "12.2.5",
     "react": "18.2.0",
